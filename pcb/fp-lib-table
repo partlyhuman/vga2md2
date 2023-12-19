@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "REB_MD2")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MD-90SM")(options "")(descr ""))
+  (lib (name "REB_HD15")(type "KiCad")(uri "${KIPRJMOD}/Libraries/REB_HD15.pretty")(options "")(descr ""))
+)
